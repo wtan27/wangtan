@@ -1,16 +1,16 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://wangtan.pages.dev/'
 languageCode = 'zh-cn'
-title = 'My New Hugo Project'
+title = '檀话'
 theme = ["github-style"]
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  author = "你的名字"
+  author = "Wang Tan"
   description = "个人博客"
-  github = "你的GitHub用户名"
-  email = "你的邮箱"
-  url = "https://example.org"
+  github = "wtan27"
+  email = "wtan27@sina.com"
+  url = "https://wangtan.pages.dev/"
   keywords = "blog"
   rss = true
   lastmod = true
