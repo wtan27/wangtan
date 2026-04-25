@@ -1,0 +1,25 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = 'My New Hugo Project'
+theme = ["github-style"]
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "你的名字"
+  description = "个人博客"
+  github = "你的GitHub用户名"
+  email = "你的邮箱"
+  url = "https://example.org"
+  keywords = "blog"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "😀"
+  # 头像配置 - 大圆形头像
+  avatar = "/images/avatar.png"
+  # 左上角图标
+  headerIcon = "/images/github.png"
+  location = "China"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
