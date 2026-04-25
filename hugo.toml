@@ -6,9 +6,9 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  author = "Wang Tan"
-  description = "个人博客"
-  github = "wtan27"
+  author = "檀话"
+  description = "Tan is talking……"
+  github = ""
   email = "wtan27@sina.com"
   url = "https://wangtan.pages.dev/"
   keywords = "blog"
